@@ -9,6 +9,6 @@ Ce répertoire contient 2 fichiers:
 
 Le code principal du projet est mis en annexe dans le rapport.
 
-Maïssa CHEMALI  28722554
-Sarah DAHER  21100791
-Christina SOUAIBY  21102782
+Maïssa CHEMALI  
+Sarah DAHER  
+Christina SOUAIBY  

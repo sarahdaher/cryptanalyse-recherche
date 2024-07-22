@@ -1,4 +1,4 @@
-# UE : LU2IN013
+# UE : LU2IN013 (Projet Cryptanalyse)
 
 >Sujet 8: Automatisation de la cryptanalyse des cryptosystèmes classiques à l'aide d'algorithmes modernes
 >
@@ -17,7 +17,10 @@ Ce répertoire contient 2 fichiers et un répertoire:
 - ``scores.py`` : les fonctions fitness utilisées dans les algorithmes de cryptanalyse.
 - ``hillclimbing.py`` et ``recuitsimule.py`` : les 2 algorithmes de cryptanalyse implémentés.
 - ``tableaux.py`` : le code pour créer nos tableaux de statistiques à analyser.
-- ``main.py`` : le menu pour pouvoir exécuter le code (suivre les instructions du terminal)
+- ``main.py`` : le main du programme.
+- 
+# Exécution 
+Lancez ``main.py`` et suivre les instructions du menu (affichage sur le terminal)
 
 # Auteurs 
 Maïssa CHEMALI  , Sarah DAHER  et Christina SOUAIBY  

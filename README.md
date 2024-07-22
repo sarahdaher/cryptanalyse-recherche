@@ -18,7 +18,7 @@ Ce répertoire contient 2 fichiers et un répertoire:
 - ``hillclimbing.py`` et ``recuitsimule.py`` : les 2 algorithmes de cryptanalyse implémentés.
 - ``tableaux.py`` : le code pour créer nos tableaux de statistiques à analyser.
 - ``main.py`` : le main du programme.
-- 
+
 # Exécution 
 Lancez ``main.py`` et suivre les instructions du menu (affichage sur le terminal)
 
